@@ -51,3 +51,7 @@ features:
 :::warning
 这是一条警告信息
 :::
+
+:::success
+这是一条成功信息
+:::
