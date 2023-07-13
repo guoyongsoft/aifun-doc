@@ -18,5 +18,7 @@ export default defineConfig({
       linkedin: 'https://xxxx',
     },
     links: [{ href: '/foo.css', rel: 'preload' }],
+    base: '/aifun-doc/',
+    publicPath: '/aifun-doc/',
   },
 });
