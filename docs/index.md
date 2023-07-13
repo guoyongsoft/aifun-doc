@@ -48,6 +48,6 @@ features:
 
 ### Info Badge <Badge>info</Badge>
 
-:::success
-这是一条成功信息
+:::warning
+这是一条警告信息
 :::
