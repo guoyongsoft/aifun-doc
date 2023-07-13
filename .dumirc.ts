@@ -17,8 +17,11 @@ export default defineConfig({
       yuque: 'https://xxxx',
       linkedin: 'https://xxxx',
     },
-    links: [{ href: '/foo.css', rel: 'preload' }],
     base: '/aifun-doc/',
     publicPath: '/aifun-doc/',
+    metas: [
+      { name: 'keywords', content: 'dumi, base on dumi' },
+      { name: 'description', content: 'React framework.' },
+    ],
   },
 });

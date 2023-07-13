@@ -1,5 +1,5 @@
 ---
-title: dumi - 为组件研发而生的静态站点框架
+title: 使用手册
 hero:
   title: dumi
   description: 为组件研发而生的静态站点框架
@@ -41,20 +41,10 @@ features:
 请访问 [GitHub](https://github.com/umijs/dumi) 或加入讨论群：
 
 <div>
-  <img data-type="dingtalk" src="https://gw.alipayobjects.com/zos/bmw-prod/7362dab4-374e-42c6-9d52-85fd4b5e357b/lbesxxl3_w1004_h1346.jpeg" width="300" />
+  <img data-type="dingtalk" alt="" src="https://gw.alipayobjects.com/zos/bmw-prod/7362dab4-374e-42c6-9d52-85fd4b5e357b/lbesxxl3_w1004_h1346.jpeg" width="300" />
 </div>
 
 # My Component
-
-<div class="centered-text">This is a demo</div>
-
-```css
-.centered-text {
-  text-align: center;
-  color: blue;
-  text-decoration: underline;
-}
-```
 
 ### Info Badge <Badge>info</Badge>
 
