@@ -1,7 +1,7 @@
 ---
 title: 使用手册
 hero:
-  title: dumi
+  title: AIFun
   description: 为组件研发而生的静态站点框架
   actions:
     - text: 立即上手
@@ -53,5 +53,9 @@ features:
 :::
 
 :::success
+这是一条成功信息
+:::
+
+:::primary
 这是一条成功信息
 :::
